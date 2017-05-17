@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631752923201",
+    "project_id": "firebase-movierecommender"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631752923201:android:dbdceb3ffc8a5048",
+        "android_client_info": {
+          "package_name": "com.recx.movierecommender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631752923201-ijtcv167puhlsc2v3kb10o1katev3pea.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "631752923201-b18h5oekpftg9ofusuckrv93f32afder.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recx.movierecommender",
+            "certificate_hash": "3ad05193378fc0866319db5fe41c3f18ffed4127"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiNAfSPH4_8OUvfMnIy25LitbLosw2p5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
